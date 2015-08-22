@@ -1,0 +1,30 @@
+*   [33mcommit f7a76f6527275facb90e40144a66a6bc60f07e17[m
+[31m|[m[32m\[m  Merge: db935c7 5c2f65e
+[31m|[m [32m|[m Author: guoqiao.zhou <guoqiao.zhou@qunar.com>
+[31m|[m [32m|[m Date:   Sat Aug 22 16:17:53 2015 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 5c2f65e6c696dc8df924536137201a62522bf488[m
+[31m|[m [32m|[m Author: guoqiao.zhou <guoqiao.zhou@qunar.com>
+[31m|[m [32m|[m Date:   Sat Aug 22 16:14:27 2015 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     change sth.
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit db935c77425a05dfb6e709e16148e3a8cbe336bb[m
+[32m|[m[32m/[m  Author: guoqiao.zhou <guoqiao.zhou@qunar.com>
+[32m|[m   Date:   Sat Aug 22 16:15:44 2015 +0800
+[32m|[m   
+[32m|[m       sth. changed
+[32m|[m  
+* [33mcommit 0c2ecf21d2aeeeffbcb03737d16653bbeaca2dad[m
+[32m|[m Author: guoqiao.zhou <guoqiao.zhou@qunar.com>
+[32m|[m Date:   Sat Aug 22 16:09:10 2015 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m  
+* [33mcommit 6b5e442e7e4dd9793dead3ab3e894d04ac84426b[m
+  Author: guoqiaoZhou <zhou.guo.qiao@163.com>
+  Date:   Sat Aug 22 15:57:38 2015 +0800
+  
+      Initial commit
